@@ -1,3 +1,3 @@
 #Sonidos
 
-+[Archivo JSon](sample.json)
++[Archivo JSon](samples.json)
