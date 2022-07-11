@@ -1,0 +1,13 @@
+[ 
+  { "url":"suspiros/00.wav","type":"audio","bank":"suspiros","n":00},
+  { "url":"suspiros/01.wav","type":"audio","bank":"suspiros","n":01},
+  { "url":"suspiros/02.wav","type":"audio","bank":"suspiros","n":02},
+  { "url":"suspiros/03.wav","type":"audio","bank":"suspiros","n":03},
+  { "url":"suspiros/04.wav","type":"audio","bank":"suspiros","n":04},
+  { "url":"suspiros/05.wav","type":"audio","bank":"suspiros","n":05},
+  { "url":"suspiros/06.wav","type":"audio","bank":"suspiros","n":06},
+  { "url":"suspiros/07.wav","type":"audio","bank":"suspiros","n":07},
+  { "url":"suspiros/08.wav","type":"audio","bank":"suspiros","n":08},
+  { "url":"suspiros/09.wav","type":"audio","bank":"suspiros","n":09},
+  { "url":"suspiros/010.wav","type":"audio","bank":"suspiros","n":010}
+]
