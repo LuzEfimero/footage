@@ -1,6 +1,7 @@
 #Fotos e imágenes diversas
 
 archivos de nubes
+
 +[1](DSC00039.JPG)
 
 +[2](DSC00040.JPG)
