@@ -6,7 +6,7 @@ footage en blanco y negro sXX
 
 +[Zoo vet](2051906_data_euscreenXL_http___openbeelden_nl_media_676307.mp4) https://luzefimero.github.io/footage/visiones/2051906_data_euscreenXL_http___openbeelden_nl_media_676307.mp4
 
-+[3](2051906_data_euscreenXL_http___openbeelden_nl_media_679228.mp4) https://luzefimero.github.io/footage/visiones/2051906_data_euscreenXL_http___openbeelden_nl_media_679228.mp4
++[A hat and a shoe](2051906_data_euscreenXL_http___openbeelden_nl_media_679228.mp4) https://luzefimero.github.io/footage/visiones/2051906_data_euscreenXL_http___openbeelden_nl_media_679228.mp4
 
 +[4](2051906_data_euscreenXL_http___openbeelden_nl_media_72177.mp4) https://luzefimero.github.io/footage/visiones/2051906_data_euscreenXL_http___openbeelden_nl_media_72177.mp4
 
