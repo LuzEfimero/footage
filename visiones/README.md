@@ -8,7 +8,7 @@ footage en blanco y negro sXX
 
 +[A hat and a shoe](2051906_data_euscreenXL_http___openbeelden_nl_media_679228.mp4) https://luzefimero.github.io/footage/visiones/2051906_data_euscreenXL_http___openbeelden_nl_media_679228.mp4
 
-+[4](2051906_data_euscreenXL_http___openbeelden_nl_media_72177.mp4) https://luzefimero.github.io/footage/visiones/2051906_data_euscreenXL_http___openbeelden_nl_media_72177.mp4
++[Women's fashion in the 60's](2051906_data_euscreenXL_http___openbeelden_nl_media_72177.mp4) https://luzefimero.github.io/footage/visiones/2051906_data_euscreenXL_http___openbeelden_nl_media_72177.mp4
 
 +[5](2051906_data_euscreenXL_http___openbeelden_nl_media_95085.mp4) https://luzefimero.github.io/footage/visiones/2051906_data_euscreenXL_http___openbeelden_nl_media_95085.mp4
 
